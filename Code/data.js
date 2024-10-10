@@ -46,4 +46,16 @@ const Account = {
     phone: '0411111111',
     balance: 100,
   },
+  user2: {
+    name: 'Larry Ellison',
+    email: 'larry.ellison@credit.com',
+    phone: '0422222222',
+    balance: 200,
+  },
+  user3: {
+    name: 'Mark Zuckerberg',
+    email: 'mark.zuckerberg@credit.com',
+    phone: '0433333333',
+    balance: 300,
+  },
 };
