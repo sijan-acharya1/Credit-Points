@@ -1,0 +1,21 @@
+Credit Points will be created using pure JavaScript.
+
+Agile methodology will be used to develop the web application.
+1. Requirements planning
+2. Design
+3. Develop
+4. Test
+5. Deploy
+6. Develop
+7. Review
+
+
+
+Requirements planning - 
+Design - Figma, Google Docs
+Develop - HTML, CSS, JavaScript
+Test - Manual
+Deploy - Docker
+Develop - creditpoints.space
+Review - 
+

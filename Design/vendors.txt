@@ -1,0 +1,67 @@
+Eligible vendors
+
+Technology: Companies focused on software, hardware, and IT services.
+Example: Microsoft, Apple, IBM
+
+Supermarket/Retail: Businesses that sell consumer goods directly to customers, often in a physical store.
+Example: Coles, Walmart, Tesco
+
+Airline: Companies that provide air travel services for passengers and cargo.
+Example: Qantas, Delta Airlines, Emirates
+
+Automotive: Companies involved in manufacturing and selling vehicles.
+Example: Toyota, Ford, BMW
+
+Banking/Financial Services: Businesses that offer banking, investment, and financial products.
+Example: JPMorgan Chase, Goldman Sachs, HSBC
+
+Pharmaceuticals/Biotechnology: Companies focused on the development and sale of medicines and medical devices.
+Example: Pfizer, Johnson & Johnson, Moderna
+
+Telecommunications: Companies that provide communication services such as internet, phone, and TV.
+Example: AT&T, Vodafone, Verizon
+
+Energy: Businesses that produce or provide energy resources, including oil, gas, and renewable energy.
+Example: ExxonMobil, BP, Chevron
+
+Hospitality: Businesses that provide lodging, food, and entertainment services.
+Example: Marriott, Hilton, Airbnb
+
+Food and Beverage: Companies that produce, distribute, and sell food and drink products.
+Example: Coca-Cola, Nestlé, PepsiC
+
+Healthcare: Businesses that provide medical services and health-related products.
+Example: Mayo Clinic, UnitedHealth Group, Medtronic
+
+Real Estate: Companies involved in buying, selling, and managing properties.
+Example: CBRE, Zillow, Simon Property Group
+
+Insurance: Businesses that provide risk management and financial protection services.
+Example: AIG, Allianz, MetLife
+
+Entertainment/Media: Companies that produce and distribute content, including film, television, and music.
+Example: Disney, Netflix, Sony Pictures
+
+Logistics/Transportation: Businesses that move goods and people from one place to another.
+Example: FedEx, UPS, DHL
+
+Agriculture: Companies involved in farming, livestock, and food production.
+Example: John Deere, Monsanto, Archer Daniels Midland
+
+Fashion/Apparel: Businesses that design, manufacture, and sell clothing and accessories.
+Example: Nike, Zara, H&M
+
+Construction: Companies that build infrastructure, buildings, and other projects.
+Example: Bechtel, Turner Construction, Skanska
+
+Mining: Businesses that extract minerals, metals, and other natural resources.
+Example: Rio Tinto, BHP, Glencore
+
+Nonprofit/NGO: Organizations that operate for social, environmental, or charitable purposes.
+Example: Red Cross, WWF, Oxfam
+
+Education: Institutions and companies that provide learning and development services.
+Example: Pearson, Coursera, Harvard University
+
+Consulting: Firms that provide expert advice and services to other businesses.
+Example: McKinsey & Company, Boston Consulting Group, Deloitte
