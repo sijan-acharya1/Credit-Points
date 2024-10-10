@@ -1,7 +1,7 @@
 // Credit account details
 const Credit = {
-  name: 'Sijan Acharya',
-  email: 'sijan.acharya@credit.com',
+  name: 'First Last',
+  email: 'first.last@credit.com',
   phone: '0412345678',
   balance: 0,
   reward: ['Apple', 'Microsoft', 'Google', 'Meta'],
@@ -31,5 +31,19 @@ const Credit = {
       location: 'Hurstville Westfield',
       price: 3.85,
     },
+  },
+  miscellaneous: {
+    startDate: '1st January 2024',
+    creditDetails: '0000 1111 2222 3333',
+    bank: 'Commonwealth Bank',
+  },
+};
+
+const Account = {
+  user1: {
+    name: 'Sijan Acharya',
+    email: 'sijan.acharya@credit.com',
+    phone: '0411111111',
+    balance: 100,
   },
 };
