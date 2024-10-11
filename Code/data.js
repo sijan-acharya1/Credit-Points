@@ -3,6 +3,7 @@ const Credit = {
   name: 'First Last',
   email: 'first.last@credit.com',
   phone: '0412345678',
+  address: '1 Address Street, Central 0000',
   balance: 0,
   reward: ['Apple', 'Microsoft', 'Google', 'Meta'],
   transfer: {
@@ -12,7 +13,7 @@ const Credit = {
       company: 'PizzaHut',
       item: 'Large Barbeque Pizza', // PizzaHut has 2 for 1 deals on Tuesday
       quantity: 2,
-      location: 'Hurstville Westfield',
+      location: 'Riverwood',
       price: 18.95,
     },
     transfer2: {
