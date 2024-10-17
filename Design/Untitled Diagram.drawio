@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-10-17T14:21:04.509Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="k3-FE4jAqcgb9cGv7_lV" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-10-17T14:27:22.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="2KrWttAwgT7FRXObUSKk" version="24.5.2" type="github">
   <diagram name="Page-1" id="mftVfHu2Gx3bmxcYFT0D">
     <mxGraphModel dx="1434" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="3qa1AcJMqrWS_oOYH8IV-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="522" y="280" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3qa1AcJMqrWS_oOYH8IV-2" value="Company 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;100 Microsoft Reward Points&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3qa1AcJMqrWS_oOYH8IV-2" value="Company 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;100 Meta Reward Points&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="3qa1AcJMqrWS_oOYH8IV-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
