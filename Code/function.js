@@ -1,14 +1,14 @@
-// Buy function
-
-// Sell function
-
-// Exchange function
-
-// Transfer history
-
-// Analytics on consumer trends
-
 /*
+Buy function
+
+Sell function
+
+Exchange function
+
+Transfer history
+
+Analytics on consumer trends
+
 - Create an account for the user
 - Send Credit Points from one account to another account
 - Buy Credit Points
