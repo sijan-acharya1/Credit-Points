@@ -5,3 +5,4 @@
 5. Price with recurring low subscription payments (Netflix) - 150 million users
 6. Tiered pricing based on volume (More you do less the price)
 7. Revenue as a percentage of every transaction (Commision)
+8. Low product price but support is extra 
