@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-10-17T14:41:34.569Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="AjJwXhxhknwrfdLDVChp" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-10-17T14:49:02.673Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="tvQE7yqceO7U2GXuSInG" version="24.5.2" type="github">
   <diagram name="Page-1" id="mftVfHu2Gx3bmxcYFT0D">
-    <mxGraphModel dx="1434" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,17 @@
         </mxCell>
         <mxCell id="3qa1AcJMqrWS_oOYH8IV-17" value="Account&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name&lt;/div&gt;&lt;div&gt;Phone&lt;/div&gt;&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Balance in reward points&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3qa1AcJMqrWS_oOYH8IV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qa1AcJMqrWS_oOYH8IV-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qa1AcJMqrWS_oOYH8IV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qa1AcJMqrWS_oOYH8IV-18" target="3qa1AcJMqrWS_oOYH8IV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qa1AcJMqrWS_oOYH8IV-18" value="Mobile client" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
