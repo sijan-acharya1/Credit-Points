@@ -1,3 +1,5 @@
+# Business model
+
 1. Product is free - Make money in the backend (YouTube)
 2. Freemium model - Pay to upgrade (Linkedin)
 3. Price based on average value to customer - (Hubspot)
@@ -8,3 +10,5 @@
 8. Low product price but support is extra 
 9. Low entry price, with priced features additional (Cars)
 10. Low price base but making money on disposable (Razor)
+
+# What type of Business Entity is Credit Points
