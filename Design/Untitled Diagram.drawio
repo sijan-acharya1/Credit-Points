@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-10-17T14:06:34.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="Gfafl_X4Ye9iWQ_-wQdX" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-10-17T14:09:47.426Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="74IyVlaOVvj35um-t0IL" version="24.5.2" type="github">
   <diagram name="Page-1" id="mftVfHu2Gx3bmxcYFT0D">
     <mxGraphModel dx="1434" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3qa1AcJMqrWS_oOYH8IV-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qa1AcJMqrWS_oOYH8IV-2" value="Vendor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="217.5" width="130" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="3qa1AcJMqrWS_oOYH8IV-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="80" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
